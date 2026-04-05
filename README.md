@@ -1,4 +1,4 @@
 # Crop-Stress-Pipeline
 
-DSSAT + LSTM for stress prediction. PROSAIL + neural network for remote sensing inversion.
-
+DSSAT and LSTM was used for crop stress prediction. 
+PROSAIL and neural networks was used for remote sensing inversion.
